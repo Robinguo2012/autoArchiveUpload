@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bugly</key>
+	<dict>
+		<key>buglyAppKey</key>
+		<string>a0ea0e30-16ef-4cc1-8bf4-832bc0c2bdc3</string>
+		<key>buglyAppId</key>
+		<string>4230a25cf8</string>
+	</dict>
+	<key>Fir</key>
+	<dict>
+		<key>api_token</key>
+		<string>300c2566e16fdbf4940809fb6e14aebb</string>
+	</dict>
+	<key>Apple</key>
+	<dict>
+		<key>applePwd</key>
+		<string>zrhv-ynxi-avxe-ntho</string>
+		<key>appleId</key>
+		<string>gaojiaqi@shopin.cn</string>
+	</dict>
+	<key>scheme</key>
+	<string>BaseProject</string>
+	<key>bundle_id</key>
+	<string>com.shopin.com</string>
+	<key>workspace</key>
+	<string>BaseProject</string>
+	<key>project_name</key>
+	<string>BaseProject</string>
+	<key>configuration</key>
+	<string>Release</string>
+</dict>
+</plist>
